@@ -12,7 +12,6 @@ function App() {
           <button>Home</button>
           <button>Favoritos</button>
           <button>Sobre</button>
-          <button>Contato</button>
         </nav>
       </header>
 
